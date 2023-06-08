@@ -1,0 +1,214 @@
+<mjml>
+  <mj-head>
+
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+
+      a {
+        text-decoration: none;
+        color: #009fdb;
+      }
+      @media only screen and (max-width: 769px){
+        
+        
+      }
+      @media only screen and (max-width: 426px ){
+        .logo{
+          padding-left: 20px !important;
+          padding-top: 0px !important;
+         
+          
+        }
+        .header-shop div{
+          padding-right: 20px !important;
+          padding-top: 0px !important;
+
+        }
+        
+      }
+      @media only screen and (max-width: 321px ){
+        .main-hero{
+          height: auto !important;
+    width: 100% !important;
+        }
+        .iphone-deals{
+          height: auto !important;
+    width: 100% !important;
+        }
+        
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .content-background {
+        background-color: #fff;
+      }
+
+    </mj-style>
+    <mj-attributes>
+      <mj-text color="#222" font-family=" Helvetica, Arial, sans-serif" />
+      <mj-image padding="0" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-wrapper css-class="content-background">
+      <mj-section>
+        <mj-raw>
+          <!-- Small Top Header Text -->
+        </mj-raw>
+
+        <mj-column>
+          <mj-text align="center" font-size="12px" font-weight="400" line-height="14px">
+            866.593.0888 | <a href="#" target="_blank"> View online</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <!-- Header Logo & Shop Now Link -->
+      </mj-raw>
+
+      <mj-section>
+      <mj-group>
+        <mj-column>
+          <mj-image css-class="logo" href="https://att.com" src="https://benjamingarcia.info/wp-content/uploads/2023/06/logo.png" width="93px" height="30px" align="left" />
+        </mj-column>
+        <mj-column >
+          <mj-text css-class="header-shop" font-size="12px" font-weight="400" line-height="14px"  align="right">
+            <a href="https://att.com" style="text-decoration: underline"> Shop now</a>
+          </mj-text>
+        </mj-column>
+        </group>
+      </mj-section>
+      <mj-raw>
+        <!-- Main Hero Image-->
+      </mj-raw>
+      <mj-section padding-bottom="0">
+        <mj-column>
+          <mj-image css-class="main-hero" href="https://att.com" src="https://benjamingarcia.info/wp-content/uploads/2023/06/hero.jpg" align="center" />
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Ihpone Deals Images-->
+      </mj-raw>
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image css-class="iphone-deals" href="https://benjamingarcia.info/wp-content/uploads/2023/06/iphone-deals.jpg"  align="center" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image href="https://att.com" src="https://benjamingarcia.info/wp-content/uploads/2023/06/iphone-deals2.jpg"  align="center" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image href="https://att.com" src="https://benjamingarcia.info/wp-content/uploads/2023/06/iphone-deals3.jpg"  align="center" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image href="https://att.com" src="https://benjamingarcia.info/wp-content/uploads/2023/06/iphone-deals4.jpg"  align="center" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image href="https://att.com" src="https://benjamingarcia.info/wp-content/uploads/2023/06/iphone-deals5.jpg"  align="center" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image href="https://att.com" src="https://benjamingarcia.info/wp-content/uploads/2023/06/decide.jpg"  align="center" />
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <!-- Watches-->
+      </mj-raw>
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image css-class="watches" href="https://benjamingarcia.info/wp-content/uploads/2023/06/watch.jpg"  align="center" />
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Own Device-->
+      </mj-raw>
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image href="https://att.com" src="https://benjamingarcia.info/wp-content/uploads/2023/06/own-device.jpg"  align="center" />
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Eligibility-->
+      </mj-raw>
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image href="https://att.com" src="https://benjamingarcia.info/wp-content/uploads/2023/06/eligibility.jpg" align="center" />
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- ATT INFO-->
+      </mj-raw>
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image href="https://att.com" src="https://benjamingarcia.info/wp-content/uploads/2023/06/info.jpg"  align="center" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image href="https://att.com" src="https://benjamingarcia.info/wp-content/uploads/2023/06/info2.jpg"  align="center" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image href="https://att.com" src="https://benjamingarcia.info/wp-content/uploads/2023/06/info3.png"  align="center" />
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <!-- Footer -->
+      </mj-raw>
+
+      <mj-section padding="30px">
+        <mj-column>
+          <mj-text font-size="11px" font-weight="400" line-height="13px" align="left">
+            <a href="https://att.com" style="text-decoration: underline"> contact us | privacy policy</a>
+          </mj-text>
+          <mj-text padding-top="0" font-size="12px" font-weight="700" line-height="14px" align="left"> This email was sent to:
+            <a href="https://att.com" style="text-decoration: underline"> benjaming83271@gmail.com</a>
+          </mj-text>
+          <mj-text padding-top="0" font-size="11px" font-weight="400" line-height="13px" align="left"> <span style="font-weight: bold;"> AT&T SIGNATURE PROGRAM $10/MO. DISCOUNT OFFER:</span> Avail. to qualified employees, students & authorized individuals of eligible companies, universities & sponsoring organizations with a qualifying service agreement (Business Agreement). Must validate eligibility online or provide valid employee badge/paystub, student ID, or approved proof of eligibility in authorized retail store & subscribe to service under an individual responsibility account for which the qualifying individual is personally liable. Discount subject to Business Agreement & may be interrupted, changed, or discontinued without notice. Additional restrictions apply. Credits/Discounts: Start w/in 2 bill cycles after service activation & eligibility confirmed. Applied after application of any available credit. Service discount: Req's AT&T Unlimited Premium plan. Plan avail. in select locations only. Discount applied after any available Autopay and paperless bill discount. Accounts with 6 to 10 lines receive $5/mo. discount per line. May not be stackable or combinable w/other oﬀers, credits, discounts or promotions. Exclusions: Military, Veterans, First Responders, Massachusetts Public Sector Employees, AT&T employees, EMO, IMO and FirstNet customers. May not be combinable with other select offers or promotions.
+
+          </mj-text>
+          <mj-text padding-top="0" font-size="11px" font-weight="400" line-height="13px" align="left"><span style="font-weight: bold;"> AT&T UNLIMITED PREMIUMSM PLAN: Plan avail. In select locations only.</span> All AT&T wireless services subject to terms and conditions in the Consumer Service Agreement <a href="https://att.com"> (att.com/csa).</a> <span style="font-weight: bold;"> Other Non-Phone Device Monthly Charges:</span> $20 per tablet, $20 per camera; $10 per wearable. If no phone line, first standalone non-phone device will be billed at Starter plan, phone single line pricing. <span style="font-weight: bold;"> Phones only.</span> Advertised monthly price includes monthly plan charge for talk, text and data & monthly per-line phone access charge for access to such services.<span style="font-weight: bold;"> OTHER RESTRICTIONS & FEES:</span> Activation/upgrade fee per line (up to $50) & deposit may apply. <span style="font-weight: bold;"> AutoPay & Paperless Bill Discount:</span> Monthly discount $10 per phone line when active & enrolled in both. <span style="font-weight: bold;"> AT&T employees, retirees & IMO consumers are not eligible for the AutoPay and Paperless bill discount.</span> Discount starts w/in 2 bill cycles. Credit card may be required (except for MA, PA and ND). Pay full plan cost until discount starts. <span style="font-weight: bold;"> UNLIMITED DATA:</span> For use in the United States (the “Domestic Coverage Area” or “DCA”), Mexico and Canada. <span style="font-weight: bold;"> DATA RESTRICTIONS:</span> 2G off-net data speeds may apply. All AT&T service is subject to AT&T network management policies. See <a href="https://att.com"> att.com/broadbandinfo</a> for details.<span style="font-weight: bold;"> 5G SERVICE:</span> Requires a compatible 5G device. 5G service is not available everywhere. See <a href="https://att.com"> att.com/5Gforyou</a> for details. VIDEO STREAMING: Includes Stream Saver feature which streams higher definition video in Standard Definition (max 1.5 Mbps) on compatible devices. Feature will not recognize all video content and may affect the speed of video downloads. To enjoy higher definition video when available, you can turn it off or back on at any time at <a href="https://att.com"> att.com/myatt.</a> Streaming/video resolution vary, are affected by other factors and restrictions apply. Details at <a href="https://att.com"> att.com/streamsaver.</a><span style="font-weight: bold;"> ActiveArmorSM advanced mobile security:</span> Compatible device required. You must download the AT&T ActiveArmor app and accept its terms and conditions for full App functionality. May not detect all threats. May inadvertently block wanted calls; settings can be adjusted in the App. <span style="font-weight: bold;"> Identity Monitoring:</span> May not detect all compromises or leaks of your personal data. <span style="font-weight: bold;"> Public Wi-Fi Protection:</span> Requires setup; the feature is automatically enabled when your device joins a public (unencrypted) Wi-Fi network unless an alternate VPN service is active. Does not work when using certain video streaming apps or Wi-Fi calling on certain devices. Some features may not work while roaming internationally. Details at <a href="https://att.com"> att.com/activearmor</a>.<span style="font-weight: bold;"> MOBILE HOTSPOT:</span> Requires compatible device. Includes up to 50GB per line per month. After 50GB, mobile hotspot speed slowed to max of 128Kbps for the rest of bill cycle. After this, mobile hotspot data usage, will be impacted and not fully functional. <span style="font-weight: bold;"> UNLIMITED TALK:</span> Phones only. Includes calls w/in and between DCA, Mexico & Canada. You may be charged for calls to special or premium service numbers and calls to other countries. For rates, see <a href="https://att.com"> att.com/intlcalling.</a> <span style="font-weight: bold;"> UNLIMITED TEXT:</span> Compatible phone and rate plan required. Includes unlimited messages up to 1MB in size within and from DCA, Mexico and Canada. For texting to other countries, see <a href="https://att.com"> att.com/text2world</a>. Messages sent through applications may incur data or other charges. Advanced Messaging: Not available for use in Mexico and Canada. Other restrictions apply & can be found at <a href="https://att.com"> att.com/advancedmessaging</a>. <span style="font-weight: bold;"> LIMITS:</span> Max 10 devices on Unlimited Your Way plan group. These plans may not be eligible for additional discounts, including but not limited to Signature discounts. AT&T employees & retirees may not be eligible for certain benefits, offers, and discounts associated with these plans.
+          </mj-text>
+          <mj-text padding-top="0" font-size="11px" font-weight="400" line-height="13px" align="left"> <span style="font-weight: bold;"> ADDITIONAL MONTHLY FEES & TAXES:</span> Apply per line & include Regulatory Cost Recovery Fee (up to $1.50), Administrative Fee ($1.99) & other fees which are not government-required surcharges as well as taxes. Additional one-time Fees may apply. See <a href="https://att.com"> att.com/mobilityfees</a> for more details.
+          </mj-text>
+          <mj-text padding-top="0" font-size="11px" font-weight="700" line-height="13px" align="left"> All offers, programming, promotions, pricing, terms, restrictions & conditions subject to change & may be modified, discontinued, or terminated at any time without notice.
+          </mj-text>
+          <mj-text padding-top="0" font-size="11px" font-weight="400" line-height="13px" align="left"> <span style="font-weight: bold;"> © 2023 AT&T Intellectual Property.</span> All rights reserved. AT&T and the Globe logo are registered trademarks of AT&T Intellectual Property. All other marks are the property of their respective owners.
+          </mj-text>
+          <mj-text padding-top="0" font-size="11px" font-weight="400" line-height="13px" align="left"> If you do not wish to receive future email offers from AT&T containing information about products and services we think you will be interested in, update your AT&T email marketing preferences here. This is an AT&T promotional email.
+          </mj-text>
+          <mj-text padding-top="0" font-size="11px" font-weight="400" line-height="13px" align="left"> AT&T, 208 South Akard Street, Dallas, TX 75202
+          </mj-text>
+          <mj-text padding-top="0" font-size="11px" font-weight="400" line-height="13px" align="left"> <a href="https://att.com">Unsubscribe</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+
+  </mj-body>
+
+
+
+
+
+
+</mjml>
